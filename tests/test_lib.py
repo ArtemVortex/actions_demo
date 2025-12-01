@@ -1,4 +1,4 @@
-from src.lib import Library, PrintedBook, EBook, User, Librarian
+from src.lib import Library, PrintedBook, User, Librarian
 
 
 def test_register_user():
